@@ -32,7 +32,7 @@ part of this repository either.
 
 ```bash
 pip install -r requirements.txt     # backend (Python 3.10+)
-npm install                          # dashboard (Node 18+)
+npm install                          # dashboard (Node 24 LTS, as in CI)
 ```
 
 ## Running
