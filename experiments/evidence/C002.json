@@ -1,0 +1,101 @@
+{
+ "claim_id": "C002",
+ "claim_text": "In August 2026, U.S. President Donald Trump posted an image showing a six-fingered U.S. Navy sailor eating a burger with the caption, \"OUR MILITARY EATS THE BEST! Nobody feeds our brave troops better than me. The food is AMAZING--the best military food EVER! Other countries wish they could feed their soldiers this well. TOTAL WIN!\"",
+ "query": "U.S. President Donald Trump an image showing a six-fingered U.S. Navy sailor",
+ "verdict": "FALSE",
+ "split": "evaluation",
+ "topic": "politics",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/trump-navy-sailor-ai-photo/",
+ "verdict_date": "2026-09-02",
+ "summary": "The story spread as Navy sailors and Marines aboard the USS Abraham Lincoln aircraft carrier prepared to land after more than 270 days at sea, receiving widespread attention for deteriorating conditions on board — including reportedly running out of food and other essential supplies. Fake Claim Spreads Online The fake screenshot began circulating on X (formerly Twitter) today, August 31 and quickly spread across other social media platforms, including Facebook and YouTube, purporting to be a genuine post from Donald Trump's Truth Social account. The best thing is no matter how much they eat, they don't get out of shape or lose any bonus digits.\" Post of Sailor Claimed To Be Shared by Donald Trump Goes Viral No Such Post by Donald Trump Exists A fact check revealed that the screenshot of Donald Trump's Truth Social post is fabricated.",
+ "n_articles": 3,
+ "n_domains": 3,
+ "n_debunk": 3,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Fact Check: Trump allegedly posted AI photo of 6-fingered Navy sailor. Don't be fooled",
+   "url": "https://ca.news.yahoo.com/fact-check-trump-allegedly-posted-145700451.html",
+   "publisher": "Yahoo News Canada",
+   "domain": "ca.news.yahoo.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-02",
+   "stance": "debunk",
+   "similarity": 0.76798
+  },
+  {
+   "title": "Fact Check: Trump Did NOT Post 'Our Military Eats The Best' With AI-Generated Mess Hall Picture",
+   "url": "https://www.yahoo.com/news/politics/articles/fact-check-trump-did-not-011750958.html",
+   "publisher": "Yahoo",
+   "domain": "yahoo.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-08-31",
+   "stance": "debunk",
+   "similarity": 0.714351
+  },
+  {
+   "title": "Did Donald Trump Post an AI Image of a Sailor With 'Our Military Eats the Best!' Caption? Fact Check Calls",
+   "url": "https://www.latestly.com/fact-check/did-donald-trump-post-an-ai-image-of-a-sailor-with-our-military-eats-the-best-caption-fact-check-calls-claim-false-7585372.html",
+   "publisher": "LatestLY",
+   "domain": "latestly.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-01",
+   "stance": "debunk",
+   "similarity": 0.763721
+  }
+ ],
+ "similarities": [
+  0.76798,
+  0.714351,
+  0.763721
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.786708,
+   0.839642
+  ],
+  [
+   0.786708,
+   1.0,
+   0.897326
+  ],
+  [
+   0.839642,
+   0.897326,
+   1.0
+  ]
+ ],
+ "domains": [
+  "ca.news.yahoo.com",
+  "yahoo.com",
+  "latestly.com"
+ ],
+ "claims": [
+  "The story spread as Navy sailors and Marines aboard the USS Abraham Lincoln aircraft carrier prepared to land after more than 270 days at sea, receiving widespread attention for deteriorating conditions on board — including reportedly running out of food and other essential supplies.",
+  "Fake Claim Spreads Online The fake screenshot began circulating on X (formerly Twitter) today, August 31 and quickly spread across other social media platforms, including Facebook and YouTube, purporting to be a genuine post from Donald Trump's Truth Social account.",
+  "The best thing is no matter how much they eat, they don't get out of shape or lose any bonus digits.\" Post of Sailor Claimed To Be Shared by Donald Trump Goes Viral No Such Post by Donald Trump Exists A fact check revealed that the screenshot of Donald Trump's Truth Social post is fabricated."
+ ],
+ "claim_similarities": [
+  [
+   0.404957,
+   0.260797,
+   0.286655
+  ],
+  [
+   0.507799,
+   0.565011,
+   0.586487
+  ],
+  [
+   0.693467,
+   0.650226,
+   0.717613
+  ]
+ ],
+ "article_text_removed": true
+}

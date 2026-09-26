@@ -1,0 +1,53 @@
+{
+ "claim_id": "C012",
+ "claim_text": "Keiko Mori, a 22-year-old teacher in Japan, defied orders to lead 30 students to their deaths with hand grenades rather than allow them to surrender to American forces during the Battle of Okinawa in June 1945.",
+ "query": "Keiko Mori a 22-year-old teacher in Japan defied orders to lead 30",
+ "verdict": "FALSE",
+ "split": "calibration",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/keiko-mori-okinawa-story/",
+ "verdict_date": "2026-09-13",
+ "summary": "In August and September 2026, a rumor circulated online that Keiko Mori, a 22-year-old teacher in Japan, defied orders to lead 30 students to their deaths with hand grenades rather than allow them to surrender to American forces during the Battle of Okinawa in June 1945. 3, a post on Facebook (archived) read: WOW: In June 1945, a 22-year-old teacher named Keiko Mori in Okinawa was ordered to command her 30 students to commit suicide with hand grenades rather than surrender. According to an article in the peer-reviewed Asia-Pacific Journal: Japan Focus, Japanese authorities disseminated \"disinformation about the motives and behaviour of the invading Americans\" during 1945, which led people in Okinawa to believe it was better to die by their own hands than be killed or captured by American soldiers.",
+ "n_articles": 1,
+ "n_domains": 1,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "The truth behind story of Japanese teacher saving 30 children during Battle of Okinawa",
+   "url": "https://www.snopes.com/fact-check/keiko-mori-okinawa-story/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-13",
+   "stance": "debunk",
+   "similarity": 0.872466
+  }
+ ],
+ "similarities": [
+  0.872466
+ ],
+ "pairwise": null,
+ "domains": [
+  "snopes.com"
+ ],
+ "claims": [
+  "In August and September 2026, a rumor circulated online that Keiko Mori, a 22-year-old teacher in Japan, defied orders to lead 30 students to their deaths with hand grenades rather than allow them to surrender to American forces during the Battle of Okinawa in June 1945.",
+  "3, a post on Facebook (archived) read: WOW: In June 1945, a 22-year-old teacher named Keiko Mori in Okinawa was ordered to command her 30 students to commit suicide with hand grenades rather than surrender.",
+  "According to an article in the peer-reviewed Asia-Pacific Journal: Japan Focus, Japanese authorities disseminated \"disinformation about the motives and behaviour of the invading Americans\" during 1945, which led people in Okinawa to believe it was better to die by their own hands than be killed or captured by American soldiers."
+ ],
+ "claim_similarities": [
+  [
+   0.827129
+  ],
+  [
+   0.789321
+  ],
+  [
+   0.625947
+  ]
+ ],
+ "article_text_removed": true
+}

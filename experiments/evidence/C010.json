@@ -1,0 +1,101 @@
+{
+ "claim_id": "C010",
+ "claim_text": "Photos published in early September 2026 authentically show former NFL linebacker Clay Matthews after extensive plastic surgery.",
+ "query": "Photos published in early September 2026 authentically show former NFL linebacker Clay",
+ "verdict": "FALSE",
+ "split": "evaluation",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/clay-matthews-plastic-surgery/",
+ "verdict_date": "2026-09-11",
+ "summary": "One X user who shared the images, which showed Matthews with an enlarged chin and jawline, bulging arm and leg muscles and (X) The pictures, originally published by celebrity magazine TMZ, also circulated on Facebook, Instagram and Reddit, where social media users discussed whether they were real. Some compared him to several other characters, including Thor, Weaver from Antz, Handsome Squidward from SpongeBob SquarePants, Popeye, Crimson Chin, Joe Swanson from Family Guy, WWE superstar The Great Khali, Johnny Bravo, and internet creator Logan Chitwood, who portrays a “GigaChad” meme persona, among others. Clay Matthews plastic surgery claims face reality check Matthews has largely stayed out of the NFL spotlight since his football playing career ended, making breathtaking “before-and-after” images peculiarly easy to believe for people who haven’t seen him recently.",
+ "n_articles": 3,
+ "n_domains": 3,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Do images show former NFL star Clay Matthews after plastic surgery?",
+   "url": "https://www.snopes.com/fact-check/clay-matthews-plastic-surgery/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-11",
+   "stance": "debunk",
+   "similarity": 0.776436
+  },
+  {
+   "title": "Clay Matthews’ jaw dropping transformation has NFL fans fooled - but there’s one huge problem",
+   "url": "https://timesofindia.indiatimes.com/sports/nfl/news/clay-matthews-jaw-dropping-transformation-has-nfl-fans-fooled-but-theres-one-huge-problem/articleshow/133968732.cms",
+   "publisher": "The Times of India",
+   "domain": "timesofindia.indiatimes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-11",
+   "stance": "neutral",
+   "similarity": 0.844666
+  },
+  {
+   "title": "Did Clay Matthews Get Plastic Surgery? What to Know About Viral Face Photos",
+   "url": "https://hollywoodlife.com/2026/09/09/did-clay-matthews-get-plastic-surgery-viral-face-photos/",
+   "publisher": "Hollywood Life",
+   "domain": "hollywoodlife.com",
+   "body_available": false,
+   "url_resolved": true,
+   "pub_date": "2026-09-09",
+   "stance": "neutral",
+   "similarity": 0.742908
+  }
+ ],
+ "similarities": [
+  0.776436,
+  0.844666,
+  0.742908
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.772336,
+   0.763259
+  ],
+  [
+   0.772336,
+   1.0,
+   0.754441
+  ],
+  [
+   0.763259,
+   0.754441,
+   1.0
+  ]
+ ],
+ "domains": [
+  "snopes.com",
+  "timesofindia.indiatimes.com",
+  "hollywoodlife.com"
+ ],
+ "claims": [
+  "One X user who shared the images, which showed Matthews with an enlarged chin and jawline, bulging arm and leg muscles and (X) The pictures, originally published by celebrity magazine TMZ, also circulated on Facebook, Instagram and Reddit, where social media users discussed whether they were real.",
+  "Some compared him to several other characters, including Thor, Weaver from Antz, Handsome Squidward from SpongeBob SquarePants, Popeye, Crimson Chin, Joe Swanson from Family Guy, WWE superstar The Great Khali, Johnny Bravo, and internet creator Logan Chitwood, who portrays a “GigaChad” meme persona, among others.",
+  "Clay Matthews plastic surgery claims face reality check Matthews has largely stayed out of the NFL spotlight since his football playing career ended, making breathtaking “before-and-after” images peculiarly easy to believe for people who haven’t seen him recently."
+ ],
+ "claim_similarities": [
+  [
+   0.792747,
+   0.614812,
+   0.69718
+  ],
+  [
+   0.195919,
+   0.512584,
+   0.26006
+  ],
+  [
+   0.787882,
+   0.709744,
+   0.774383
+  ]
+ ],
+ "article_text_removed": true
+}

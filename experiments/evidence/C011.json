@@ -1,0 +1,53 @@
+{
+ "claim_id": "C011",
+ "claim_text": "In September 1992, musician Eric Clapton invited 16-year-old Sarah Mitchell, who was deaf, onstage at a concert in Birmingham, England, and performed for her.",
+ "query": "In September 1992 musician Eric Clapton invited 16-year-old Sarah Mitchell who was",
+ "verdict": "FALSE",
+ "split": "calibration",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/eric-clapton-deaf-teen-1992/",
+ "verdict_date": "2026-09-13",
+ "summary": "Searches of The fabricated story resembled glurge, which Dictionary.com defines as \"stories, often sent by email, that are supposed to be true and uplifting, but which are often fabricated and sentimental.\" It was one of hundreds of similarly fake stories about celebrities on Facebook that aim to generate views and advertising revenue via websites linked in posts. (YouTube channel @EricClaptonTheUntoldLegacy) The false rumor about Clapton fits a familiar pattern of shareable, feel-good celebrity stories that spread quickly online because they appeal to emotion and usually rely on little more than reposts. President Donald Trump and first lady Melania Trump spent New Year's Day 2026 at a Pennsylvania orphanage and that Stephen Colbert launched a multimillion-dollar \"Evergreen Sanctuary\" for abused dogs.",
+ "n_articles": 1,
+ "n_domains": 1,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Claim Eric Clapton invited deaf teen onstage hits bum note",
+   "url": "https://www.snopes.com/fact-check/eric-clapton-sarah-mitchell-deaf/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-01-20",
+   "stance": "debunk",
+   "similarity": 0.669302
+  }
+ ],
+ "similarities": [
+  0.669302
+ ],
+ "pairwise": null,
+ "domains": [
+  "snopes.com"
+ ],
+ "claims": [
+  "Searches of The fabricated story resembled glurge, which Dictionary.com defines as \"stories, often sent by email, that are supposed to be true and uplifting, but which are often fabricated and sentimental.\" It was one of hundreds of similarly fake stories about celebrities on Facebook that aim to generate views and advertising revenue via websites linked in posts.",
+  "(YouTube channel @EricClaptonTheUntoldLegacy) The false rumor about Clapton fits a familiar pattern of shareable, feel-good celebrity stories that spread quickly online because they appeal to emotion and usually rely on little more than reposts.",
+  "President Donald Trump and first lady Melania Trump spent New Year's Day 2026 at a Pennsylvania orphanage and that Stephen Colbert launched a multimillion-dollar \"Evergreen Sanctuary\" for abused dogs."
+ ],
+ "claim_similarities": [
+  [
+   0.421349
+  ],
+  [
+   0.596728
+  ],
+  [
+   0.271121
+  ]
+ ],
+ "article_text_removed": true
+}

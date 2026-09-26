@@ -1,0 +1,398 @@
+{
+  "generatedBy": "Alex1.py / all-mpnet-base-v2",
+  "cases": [
+    {
+      "caseId": "A",
+      "label": "Cohort A: High Coherence",
+      "description": "Five outlets report the same fact.",
+      "summary": "The Federal Reserve cut interest rates by 0.25% today, responding to cooling inflation and a weakening labor market.",
+      "articles": [
+        {
+          "title": "Reuters: The Federal Reserve cut interest rates by 0.25 percentage po\u2026",
+          "snippet": "The Federal Reserve cut interest rates by 0.25 percentage points today, citing cooling inflation and a softening labor market.",
+          "url": "https://www.reuters.com/economy/fed-cuts-rates",
+          "source": "reuters.com",
+          "publisher": "Reuters",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.9811,
+          "coherenceScores": [
+            0.8275,
+            0.7811,
+            0.7375,
+            0.8608
+          ]
+        },
+        {
+          "title": "BBC News: The Fed announced a quarter-point rate cut on Wednesday, low\u2026",
+          "snippet": "The Fed announced a quarter-point rate cut on Wednesday, lowering the benchmark rate to support economic growth amid slowing inflation.",
+          "url": "https://www.bbc.co.uk/news/business-fed-rate-cut",
+          "source": "bbc.co.uk",
+          "publisher": "BBC News",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.8189,
+          "coherenceScores": [
+            0.8275,
+            0.6848,
+            0.696,
+            0.8418
+          ]
+        },
+        {
+          "title": "CNN: Interest rates were reduced by 25 basis points by the Federa\u2026",
+          "snippet": "Interest rates were reduced by 25 basis points by the Federal Reserve, as policymakers responded to declining consumer price pressures.",
+          "url": "https://edition.cnn.com/2026/03/fed-rate-decision",
+          "source": "cnn.com",
+          "publisher": "CNN",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.7926,
+          "coherenceScores": [
+            0.7811,
+            0.6848,
+            0.6802,
+            0.7678
+          ]
+        },
+        {
+          "title": "Bloomberg: The US central bank lowered its key interest rate by 0.25% i\u2026",
+          "snippet": "The US central bank lowered its key interest rate by 0.25% in its latest policy decision, signaling confidence that inflation is easing.",
+          "url": "https://www.bloomberg.com/news/fed-quarter-point-cut",
+          "source": "bloomberg.com",
+          "publisher": "Bloomberg",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.7398,
+          "coherenceScores": [
+            0.7375,
+            0.696,
+            0.6802,
+            0.7394
+          ]
+        },
+        {
+          "title": "The New York Times: Federal Reserve officials voted to cut rates by a quarter po\u2026",
+          "snippet": "Federal Reserve officials voted to cut rates by a quarter point, marking the first reduction this year as inflation trends downward.",
+          "url": "https://www.nytimes.com/2026/03/federal-reserve-rates",
+          "source": "nytimes.com",
+          "publisher": "The New York Times",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.8524,
+          "coherenceScores": [
+            0.8608,
+            0.8418,
+            0.7678,
+            0.7394
+          ]
+        }
+      ],
+      "pairwiseUpperTriangle": [
+        0.8275,
+        0.7811,
+        0.7375,
+        0.8608,
+        0.6848,
+        0.696,
+        0.8418,
+        0.6802,
+        0.7678,
+        0.7394
+      ],
+      "formulaBreakdown": {
+        "finalScore": 85,
+        "semanticScore": 91.89,
+        "avgSimilarity": 0.8841,
+        "domainFactor": 1.0,
+        "nDomains": 5,
+        "domains": [
+          "bbc.co.uk",
+          "bloomberg.com",
+          "cnn.com",
+          "nytimes.com",
+          "reuters.com"
+        ],
+        "coherenceFactor": 0.9285,
+        "sourceCoherence": 0.7617
+      }
+    },
+    {
+      "caseId": "B",
+      "label": "Cohort B: Low Coherence",
+      "description": "Five outlets contradict each other.",
+      "summary": "The Federal Reserve cut interest rates by 0.25% today, responding to cooling inflation.",
+      "articles": [
+        {
+          "title": "Reuters: The Federal Reserve cut interest rates by 0.25 percentage po\u2026",
+          "snippet": "The Federal Reserve cut interest rates by 0.25 percentage points today, citing cooling inflation.",
+          "url": "https://www.reuters.com/economy/fed-rate-decision",
+          "source": "reuters.com",
+          "publisher": "Reuters",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.9804,
+          "coherenceScores": [
+            0.5117,
+            0.5647,
+            0.4638,
+            0.7044
+          ]
+        },
+        {
+          "title": "BBC News: The Fed unexpectedly raised interest rates by half a percent\u2026",
+          "snippet": "The Fed unexpectedly raised interest rates by half a percentage point, surprising markets with a hawkish stance.",
+          "url": "https://www.bbc.co.uk/news/business-fed-surprise-hike",
+          "source": "bbc.co.uk",
+          "publisher": "BBC News",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.5288,
+          "coherenceScores": [
+            0.5117,
+            0.5168,
+            0.5849,
+            0.5389
+          ]
+        },
+        {
+          "title": "CNN: The Federal Reserve kept interest rates unchanged in its lat\u2026",
+          "snippet": "The Federal Reserve kept interest rates unchanged in its latest meeting, adopting a wait-and-see approach to inflation.",
+          "url": "https://edition.cnn.com/2026/03/fed-holds-steady",
+          "source": "cnn.com",
+          "publisher": "CNN",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.5764,
+          "coherenceScores": [
+            0.5647,
+            0.5168,
+            0.5418,
+            0.4124
+          ]
+        },
+        {
+          "title": "Bloomberg: Central bank policymakers announced an emergency 0.75% rate \u2026",
+          "snippet": "Central bank policymakers announced an emergency 0.75% rate hike to combat surging inflation and a weakening dollar.",
+          "url": "https://www.bloomberg.com/news/fed-emergency-hike",
+          "source": "bloomberg.com",
+          "publisher": "Bloomberg",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.4932,
+          "coherenceScores": [
+            0.4638,
+            0.5849,
+            0.5418,
+            0.4563
+          ]
+        },
+        {
+          "title": "The New York Times: The Fed signaled it would begin cutting rates aggressively n\u2026",
+          "snippet": "The Fed signaled it would begin cutting rates aggressively next quarter, with markets pricing in a full percentage point of easing.",
+          "url": "https://www.nytimes.com/2026/03/fed-signals-cuts",
+          "source": "nytimes.com",
+          "publisher": "The New York Times",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.7051,
+          "coherenceScores": [
+            0.7044,
+            0.5389,
+            0.4124,
+            0.4563
+          ]
+        }
+      ],
+      "pairwiseUpperTriangle": [
+        0.5117,
+        0.5647,
+        0.4638,
+        0.7044,
+        0.5168,
+        0.5849,
+        0.5389,
+        0.5418,
+        0.4124,
+        0.4563
+      ],
+      "formulaBreakdown": {
+        "finalScore": 71,
+        "semanticScore": 82.78,
+        "avgSimilarity": 0.754,
+        "domainFactor": 1.0,
+        "nDomains": 5,
+        "domains": [
+          "bbc.co.uk",
+          "bloomberg.com",
+          "cnn.com",
+          "nytimes.com",
+          "reuters.com"
+        ],
+        "coherenceFactor": 0.8589,
+        "sourceCoherence": 0.5296
+      }
+    },
+    {
+      "caseId": "C",
+      "label": "Cohort C: Mixed Coherence",
+      "description": "Three outlets agree, two contradict.",
+      "summary": "The Federal Reserve cut interest rates by 0.25% today, responding to cooling inflation.",
+      "articles": [
+        {
+          "title": "Reuters: The Federal Reserve cut interest rates by 0.25 percentage po\u2026",
+          "snippet": "The Federal Reserve cut interest rates by 0.25 percentage points today, citing cooling inflation and a softening labor market.",
+          "url": "https://www.reuters.com/economy/fed-cuts-rates",
+          "source": "reuters.com",
+          "publisher": "Reuters",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.9743,
+          "coherenceScores": [
+            0.8226,
+            0.7854,
+            0.5255,
+            0.5489
+          ]
+        },
+        {
+          "title": "BBC News: The Fed announced a quarter-point rate cut on Wednesday, low\u2026",
+          "snippet": "The Fed announced a quarter-point rate cut on Wednesday, lowering the benchmark rate to support economic growth.",
+          "url": "https://www.bbc.co.uk/news/business-fed-rate-cut",
+          "source": "bbc.co.uk",
+          "publisher": "BBC News",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.8081,
+          "coherenceScores": [
+            0.8226,
+            0.7028,
+            0.5445,
+            0.4901
+          ]
+        },
+        {
+          "title": "CNN: Interest rates were reduced by 25 basis points by the Federa\u2026",
+          "snippet": "Interest rates were reduced by 25 basis points by the Federal Reserve, as policymakers responded to declining price pressures.",
+          "url": "https://edition.cnn.com/2026/03/fed-rate-decision",
+          "source": "cnn.com",
+          "publisher": "CNN",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.7982,
+          "coherenceScores": [
+            0.7854,
+            0.7028,
+            0.4778,
+            0.5393
+          ]
+        },
+        {
+          "title": "Bloomberg: The Fed unexpectedly raised interest rates by half a percent\u2026",
+          "snippet": "The Fed unexpectedly raised interest rates by half a percentage point, surprising markets with a hawkish stance.",
+          "url": "https://www.bloomberg.com/news/fed-surprise-hike",
+          "source": "bloomberg.com",
+          "publisher": "Bloomberg",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.5288,
+          "coherenceScores": [
+            0.5255,
+            0.5445,
+            0.4778,
+            0.5057
+          ]
+        },
+        {
+          "title": "The New York Times: The Federal Reserve kept interest rates unchanged in its lat\u2026",
+          "snippet": "The Federal Reserve kept interest rates unchanged in its latest meeting, adopting a wait-and-see approach.",
+          "url": "https://www.nytimes.com/2026/03/fed-holds-steady",
+          "source": "nytimes.com",
+          "publisher": "The New York Times",
+          "urlResolved": true,
+          "bodyAvailable": true,
+          "pubDate": "2026-03-20",
+          "sentiment": "NEUTRAL",
+          "sentimentScore": 0.0,
+          "similarityToSummary": 0.5586,
+          "coherenceScores": [
+            0.5489,
+            0.4901,
+            0.5393,
+            0.5057
+          ]
+        }
+      ],
+      "pairwiseUpperTriangle": [
+        0.8226,
+        0.7854,
+        0.5255,
+        0.5489,
+        0.7028,
+        0.5445,
+        0.4901,
+        0.4778,
+        0.5393,
+        0.5057
+      ],
+      "formulaBreakdown": {
+        "finalScore": 79,
+        "semanticScore": 90.21,
+        "avgSimilarity": 0.8602,
+        "domainFactor": 1.0,
+        "nDomains": 5,
+        "domains": [
+          "bbc.co.uk",
+          "bloomberg.com",
+          "cnn.com",
+          "nytimes.com",
+          "reuters.com"
+        ],
+        "coherenceFactor": 0.8783,
+        "sourceCoherence": 0.5942
+      }
+    }
+  ]
+}

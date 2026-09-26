@@ -1,0 +1,126 @@
+{
+ "claim_id": "C029",
+ "claim_text": "U.S. President Donald Trump helped a farmer's widow clear her debts to keep her farm in Georgia after her husband died by suicide trying to stop it being auctioned off.",
+ "query": "U.S. President Donald Trump helped a farmers widow clear her debts to",
+ "verdict": "TRUE",
+ "split": "evaluation",
+ "topic": "politics",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/trump-georgia-widow-farm-foreclosure/",
+ "verdict_date": "2026-09-15",
+ "summary": "According to reports at the time in reputable news outlets such as The Associated Press, Trump helped fundraise for Annabel Hill, a farmer's widow whose husband, Leonard Dozier Hill III, died by suicide in 1986 trying to save his fifth-generation farm through his life insurance payments. Some details, like exactly how much money the Hill family owed, the exact size of the farm and how much money the fundraiser collected varied between reports, but what appeared consistent was that Trump and a Texas farmer named Tom McKamy contributed a vital final portion of the fundraiser, allowing most of the land to stay with Hill's family. “The place was an absolute tip when I took it over and I have totally transformed it and spent huge amounts of time, money and effort to make sure it blends with the environment and contributes to the wildlife.” She also pointed to other nearby plots, claiming they include a burnt-out barn and significant amounts of fly-tipping that she says have gone unaddressed.",
+ "n_articles": 4,
+ "n_domains": 4,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "A Georgia widow's farm faced foreclosure. Then Trump stepped in to help",
+   "url": "https://www.snopes.com/fact-check/trump-georgia-widow-farm-foreclosure/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-15",
+   "stance": "debunk",
+   "similarity": 0.749525
+  },
+  {
+   "title": "A West Sussex widow transformed £57,000 fly-tipped wasteland into a dream mini-farm with pigs, chickens a",
+   "url": "https://timesofindia.indiatimes.com/world/uk/a-west-sussex-widow-transformed-57000-fly-tipped-wasteland-into-a-dream-mini-farm-with-pigs-chickens-and-2000-plants-now-she-has-been-ordered-to-tear-it-down-after-losing-a-planning-battle/articleshow/133476337.cms",
+   "publisher": "The Times of India",
+   "domain": "timesofindia.indiatimes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-08-24",
+   "stance": "neutral",
+   "similarity": 0.448621
+  },
+  {
+   "title": "Delegation for 3.6.26: Noem out — drug origins — disasters — historic speech — remember the Alamo",
+   "url": "https://floridapolitics.com/archives/783792-delegation-for-3-6-26-noem-out-drug-origins-disasters-historic-speech-remember-the-alamo/",
+   "publisher": "Florida Politics",
+   "domain": "floridapolitics.com",
+   "body_available": false,
+   "url_resolved": true,
+   "pub_date": "2026-03-06",
+   "stance": "neutral",
+   "similarity": 0.288043
+  },
+  {
+   "title": "The 12 Poorest Presidents In US History",
+   "url": "https://www.moneydigest.com/2005304/richest-poorest-presidents-us/",
+   "publisher": "moneydigest.com",
+   "domain": "moneydigest.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2025-10-27",
+   "stance": "neutral",
+   "similarity": 0.341618
+  }
+ ],
+ "similarities": [
+  0.749525,
+  0.448621,
+  0.288043,
+  0.341618
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.34149,
+   0.22647,
+   0.37004
+  ],
+  [
+   0.34149,
+   1.0,
+   0.209822,
+   0.019844
+  ],
+  [
+   0.22647,
+   0.209822,
+   1.0,
+   0.091875
+  ],
+  [
+   0.37004,
+   0.019844,
+   0.091875,
+   1.0
+  ]
+ ],
+ "domains": [
+  "snopes.com",
+  "timesofindia.indiatimes.com",
+  "floridapolitics.com",
+  "moneydigest.com"
+ ],
+ "claims": [
+  "According to reports at the time in reputable news outlets such as The Associated Press, Trump helped fundraise for Annabel Hill, a farmer's widow whose husband, Leonard Dozier Hill III, died by suicide in 1986 trying to save his fifth-generation farm through his life insurance payments.",
+  "Some details, like exactly how much money the Hill family owed, the exact size of the farm and how much money the fundraiser collected varied between reports, but what appeared consistent was that Trump and a Texas farmer named Tom McKamy contributed a vital final portion of the fundraiser, allowing most of the land to stay with Hill's family.",
+  "“The place was an absolute tip when I took it over and I have totally transformed it and spent huge amounts of time, money and effort to make sure it blends with the environment and contributes to the wildlife.” She also pointed to other nearby plots, claiming they include a burnt-out barn and significant amounts of fly-tipping that she says have gone unaddressed."
+ ],
+ "claim_similarities": [
+  [
+   0.736973,
+   0.265458,
+   0.218742,
+   0.35111
+  ],
+  [
+   0.623257,
+   0.341393,
+   0.269158,
+   0.330558
+  ],
+  [
+   0.240748,
+   0.602297,
+   0.168037,
+   0.004893
+  ]
+ ],
+ "article_text_removed": true
+}

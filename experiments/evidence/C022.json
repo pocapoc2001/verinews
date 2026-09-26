@@ -1,0 +1,78 @@
+{
+ "claim_id": "C022",
+ "claim_text": "An image collage of six police booking photos circulating online in September 2026 authentically shows Vermont faith leaders who were arrested after protesting U.S. Immigration and Customs Enforcement.",
+ "query": "An image collage of six police booking photos circulating online in September",
+ "verdict": "TRUE",
+ "split": "calibration",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/faith-leaders-protest-ice/",
+ "verdict_date": "2026-09-10",
+ "summary": "Vermont State Police's news release (archived) also notes that the arrestees were protesting ICE (emphasis ours): These individuals were among a group of people who entered the building to protest federal agencies — including Immigration and Customs Enforcement — that occupy space there alongside private businesses and a medical office. \"Civil disobedience, which has a long history in our country and in the Episcopal Church, is one way we actively love our neighbors.\" The email also includes a statement from McMillan, which says America's \"national leaders\" claim to be Christian while authorizing \"heinous and immoral policies.\" \"Every day, from this building, ICE surveils, determining which man, woman or child should be targeted. Follow The Post’s live coverage of the Charlie Kirk shooting for the latest news and updates “Our investigation continues and we will continue to release information in interest of transparency.” The wrongly accused man was nabbed after police initially cuffed — and then released — an older man, who had been seen in social media videos being escorted from the Orem campus following the fatal shooting.",
+ "n_articles": 2,
+ "n_domains": 2,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "These faith leaders were arrested for protesting ICE. Here's what they told us",
+   "url": "https://www.snopes.com/fact-check/faith-leaders-protest-ice/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-10",
+   "stance": "debunk",
+   "similarity": 0.803387
+  },
+  {
+   "title": "Charlie Kirk assassin still at large after FBI releases ‘person of interest,’ as bystanders describe horrific scene",
+   "url": "https://nypost.com/2025/09/10/us-news/charlie-kirk-shooting-suspect-arrested-in-utah-fbi/",
+   "publisher": "nypost.com",
+   "domain": "nypost.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2025-09-10",
+   "stance": "neutral",
+   "similarity": 0.555737
+  }
+ ],
+ "similarities": [
+  0.803387,
+  0.555737
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.309505
+  ],
+  [
+   0.309505,
+   1.0
+  ]
+ ],
+ "domains": [
+  "snopes.com",
+  "nypost.com"
+ ],
+ "claims": [
+  "Vermont State Police's news release (archived) also notes that the arrestees were protesting ICE (emphasis ours): These individuals were among a group of people who entered the building to protest federal agencies — including Immigration and Customs Enforcement — that occupy space there alongside private businesses and a medical office.",
+  "\"Civil disobedience, which has a long history in our country and in the Episcopal Church, is one way we actively love our neighbors.\" The email also includes a statement from McMillan, which says America's \"national leaders\" claim to be Christian while authorizing \"heinous and immoral policies.\" \"Every day, from this building, ICE surveils, determining which man, woman or child should be targeted.",
+  "Follow The Post’s live coverage of the Charlie Kirk shooting for the latest news and updates “Our investigation continues and we will continue to release information in interest of transparency.” The wrongly accused man was nabbed after police initially cuffed — and then released — an older man, who had been seen in social media videos being escorted from the Orem campus following the fatal shooting."
+ ],
+ "claim_similarities": [
+  [
+   0.79494,
+   0.274738
+  ],
+  [
+   0.59214,
+   0.141724
+  ],
+  [
+   0.290206,
+   0.743708
+  ]
+ ],
+ "article_text_removed": true
+}

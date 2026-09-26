@@ -1,0 +1,24 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Pipeline artifacts
+model_state/
+stream_corpus.csv
+Checkpoint_Scraped_Data.csv
+__pycache__/
+runs/
+build_check/
+.idea/
+tsconfig.tsbuildinfo
+RoEduNet_proiect/build/
+experiments/cache/
+# experiments/evidence/ is deliberately tracked: the frozen bundles (1.3 MB)
+# are the study's dataset, and every table in the paper is regenerated from
+# them without re-scraping. Only the raw retrieval cache above is ignored.
+information-14-00358-v2.pdf
+experiments/build_evidence.log

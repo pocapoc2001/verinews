@@ -1,0 +1,26 @@
+# VeriNews Engine v4.1 — pinned to the versions the pipeline was validated with.
+# For the offline unit tests only, requirements-ci.txt is enough (no torch).
+pandas==2.3.3
+numpy==2.2.6
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.1
+tqdm==4.68.3
+python-dateutil==2.9.0.post0
+plotly==6.8.0
+trafilatura==2.1.0
+gnews==0.8.2
+duckduckgo-search==8.1.1
+googlenewsdecoder==0.1.7
+brotli==1.2.0
+sentence-transformers==5.6.0
+keybert==0.9.0
+transformers==5.12.1
+torch==2.12.1
+scikit-learn==1.7.2
+scipy==1.15.3
+joblib==1.5.3
+openpyxl==3.1.5
+statsmodels==0.14.6
+streamlit==1.58.0
+pytest==9.1.1

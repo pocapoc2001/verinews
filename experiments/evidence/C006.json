@@ -1,0 +1,182 @@
+{
+ "claim_id": "C006",
+ "claim_text": "A U.S. military dog named Valor was honored at the Pentagon for surviving a suicide bombing and saving 47 soldiers in 2023.",
+ "query": "A U.S. military dog named Valor was honored at the Pentagon for",
+ "verdict": "FALSE",
+ "split": "calibration",
+ "topic": "conflict",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/k9-valor-suicide-bombing-survive/",
+ "verdict_date": "2026-09-07",
+ "summary": "Stu Scheller's Work Pushes Upgrades Across the Finish Line The award corrections came at the direction of Secretary of Defense Pete Hegseth and followed recommendations from the Afghanistan Withdrawal Special Review Panel. A recent White House executive order on shipbuilding also referred to the ship only as CVN-81, tasking the Secretary of Defense and Secretary of the Navy to report back with a plan to replace the ship’s electromagnetic aircraft launch system with steam and hydraulic systems. Pentagon spokesman Sean Parnell said at the time of the Milk’s renaming that Hegseth was committed to names “reflective of the commander-in-chief’s priorities, our nation’s history, and the warrior ethos.” The choice of USS Doris Miller marked the first time an aircraft carrier would honor an enlisted sailor and the first aircraft carrier to be named for an African-American.",
+ "n_articles": 6,
+ "n_domains": 5,
+ "n_debunk": 2,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Don't believe story about heroic 'K9 Valor' surviving suicide bombing, saving 47 soldiers",
+   "url": "https://www.snopes.com/fact-check/k9-valor-medal-honor-story/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-06-27",
+   "stance": "debunk",
+   "similarity": 0.224253
+  },
+  {
+   "title": "Beware of claim military dog named Face was awarded Medal of Honor after saving soldiers in Iraq",
+   "url": "https://www.snopes.com/fact-check/face-dog-medal-of-honor-iraq/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-07-28",
+   "stance": "debunk",
+   "similarity": 0.297572
+  },
+  {
+   "title": "Abbey Gate Marines Receive Upgraded Valor Awards After Pentagon Review",
+   "url": "https://www.military.com/feature/2026/04/22/abbey-gate-marines-receive-upgraded-valor-awards-after-pentagon-review.html",
+   "publisher": "Military.com",
+   "domain": "military.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-04-24",
+   "stance": "neutral",
+   "similarity": 0.393746
+  },
+  {
+   "title": "Navy weighs renaming carrier slated to honor Black war hero after Trump, sources say",
+   "url": "https://www.fox10tv.com/2026/08/21/navy-weighs-renaming-carrier-slated-honor-black-war-hero-after-trump-sources-say/",
+   "publisher": "fox10tv.com",
+   "domain": "fox10tv.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-08-20",
+   "stance": "neutral",
+   "similarity": 0.783682
+  },
+  {
+   "title": "Specialist Fourth Class Kenneth J. David | Medal of Honor Recipient | U.S. Army",
+   "url": "http://www.army.mil/medalofhonor/david/",
+   "publisher": "army.mil",
+   "domain": "army.mil",
+   "body_available": false,
+   "url_resolved": true,
+   "pub_date": "2025-01-03",
+   "stance": "neutral",
+   "similarity": 0.38662
+  },
+  {
+   "title": "Trump diverts military valor to himself",
+   "url": "https://www.salon.com/2025/05/28/diverts-military-valor-to-himself/",
+   "publisher": "Salon.com",
+   "domain": "salon.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2025-05-28",
+   "stance": "neutral",
+   "similarity": 0.230322
+  }
+ ],
+ "similarities": [
+  0.224253,
+  0.297572,
+  0.393746,
+  0.783682,
+  0.38662,
+  0.230322
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.751277,
+   0.542808,
+   0.323464,
+   0.470483,
+   0.235366
+  ],
+  [
+   0.751277,
+   1.0,
+   0.581139,
+   0.333861,
+   0.510851,
+   0.250867
+  ],
+  [
+   0.542808,
+   0.581139,
+   1.0,
+   0.435403,
+   0.467445,
+   0.324477
+  ],
+  [
+   0.323464,
+   0.333861,
+   0.435403,
+   1.0,
+   0.341396,
+   0.485015
+  ],
+  [
+   0.470483,
+   0.510851,
+   0.467445,
+   0.341396,
+   1.0,
+   0.144138
+  ],
+  [
+   0.235366,
+   0.250867,
+   0.324477,
+   0.485015,
+   0.144138,
+   1.0
+  ]
+ ],
+ "domains": [
+  "snopes.com",
+  "snopes.com",
+  "military.com",
+  "fox10tv.com",
+  "army.mil",
+  "salon.com"
+ ],
+ "claims": [
+  "Stu Scheller's Work Pushes Upgrades Across the Finish Line The award corrections came at the direction of Secretary of Defense Pete Hegseth and followed recommendations from the Afghanistan Withdrawal Special Review Panel.",
+  "A recent White House executive order on shipbuilding also referred to the ship only as CVN-81, tasking the Secretary of Defense and Secretary of the Navy to report back with a plan to replace the ship’s electromagnetic aircraft launch system with steam and hydraulic systems.",
+  "Pentagon spokesman Sean Parnell said at the time of the Milk’s renaming that Hegseth was committed to names “reflective of the commander-in-chief’s priorities, our nation’s history, and the warrior ethos.” The choice of USS Doris Miller marked the first time an aircraft carrier would honor an enlisted sailor and the first aircraft carrier to be named for an African-American."
+ ],
+ "claim_similarities": [
+  [
+   0.273182,
+   0.372683,
+   0.550192,
+   0.32341,
+   0.404527,
+   0.190845
+  ],
+  [
+   0.083857,
+   0.184848,
+   0.269557,
+   0.54088,
+   0.274943,
+   0.185034
+  ],
+  [
+   0.160825,
+   0.2077,
+   0.240637,
+   0.707745,
+   0.285925,
+   0.171655
+  ]
+ ],
+ "article_text_removed": true
+}

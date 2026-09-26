@@ -1,0 +1,5 @@
+{
+  "name": "VeriNews",
+  "description": "OSINT pipeline and dashboard for similar-news detection: geometric topic modeling over Sentence-BERT embeddings, abstractive summaries and a Triangulated Veracity Score computed from the ingested sources.",
+  "requestFramePermissions": []
+}

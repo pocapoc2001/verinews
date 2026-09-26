@@ -1,0 +1,45 @@
+{
+ "claim_id": "C040",
+ "claim_text": "A video circulating online in 2026 authentically showed a rhino and muntjac deer headbutting each other at a Polish zoo.",
+ "query": "A video circulating online in 2026 authentically showed a rhino and muntjac",
+ "verdict": "TRUE",
+ "split": "calibration",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/rhino-deer-headbutt-video/",
+ "verdict_date": "2026-09-22",
+ "summary": "Fact Check: Video shows rhino and tiny deer headbutting    Yahoo",
+ "n_articles": 1,
+ "n_domains": 1,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Fact Check: Video shows rhino and tiny deer headbutting",
+   "url": "https://www.yahoo.com/news/science/articles/fact-check-video-shows-rhino-100000653.html",
+   "publisher": "Yahoo",
+   "domain": "yahoo.com",
+   "body_available": false,
+   "url_resolved": true,
+   "pub_date": "2026-09-22",
+   "stance": "debunk",
+   "similarity": 1.0
+  }
+ ],
+ "similarities": [
+  1.0
+ ],
+ "pairwise": null,
+ "domains": [
+  "yahoo.com"
+ ],
+ "claims": [
+  "Fact Check: Video shows rhino and tiny deer headbutting    Yahoo"
+ ],
+ "claim_similarities": [
+  [
+   1.0
+  ]
+ ],
+ "article_text_removed": true
+}

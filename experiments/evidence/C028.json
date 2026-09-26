@@ -1,0 +1,53 @@
+{
+ "claim_id": "C028",
+ "claim_text": "A screenshot shared online in September 2026 authentically shows a 2012 tweet from U.S. President Donald Trump, reading, \"Don't let Obama buy the election by handing out unlimited free money to states.\"",
+ "query": "A screenshot shared online in September 2026 authentically shows a 2012 tweet",
+ "verdict": "TRUE",
+ "split": "evaluation",
+ "topic": "politics",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/trump-obama-post-dividend-promise/",
+ "verdict_date": "2026-09-15",
+ "summary": "President Donald Trump posting on his @realDonaldTrump account, \"Don't let Obama buy the election by handing out unlimited free money to states.\" Users shared the image after Trump's pledge to give $5,000 to every U.S. Trump (@realDonaldTrump) October 30, 2012 Snopes emailed the White House for its response to users comparing the 2012 post to the \"Trump dividend.\" We will update this article if we receive further information. For further reading, we previously published a collection of 24 things Trump actually posted on Truth Social, including, for example, an Easter Sunday post threatening Iran to open the Strait of Hormuz or be \"living in hell,\" as well as a Memorial Day message addressing \"scum\" that spent years \"trying to destroy our country.\"",
+ "n_articles": 1,
+ "n_domains": 1,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Old Trump post about Obama using handouts to buy election spreads online after $5K 'dividend' promise",
+   "url": "https://www.snopes.com/fact-check/trump-obama-post-dividend-promise/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-15",
+   "stance": "debunk",
+   "similarity": 0.878616
+  }
+ ],
+ "similarities": [
+  0.878616
+ ],
+ "pairwise": null,
+ "domains": [
+  "snopes.com"
+ ],
+ "claims": [
+  "President Donald Trump posting on his @realDonaldTrump account, \"Don't let Obama buy the election by handing out unlimited free money to states.\" Users shared the image after Trump's pledge to give $5,000 to every U.S.",
+  "Trump (@realDonaldTrump) October 30, 2012 Snopes emailed the White House for its response to users comparing the 2012 post to the \"Trump dividend.\" We will update this article if we receive further information.",
+  "For further reading, we previously published a collection of 24 things Trump actually posted on Truth Social, including, for example, an Easter Sunday post threatening Iran to open the Strait of Hormuz or be \"living in hell,\" as well as a Memorial Day message addressing \"scum\" that spent years \"trying to destroy our country.\""
+ ],
+ "claim_similarities": [
+  [
+   0.730656
+  ],
+  [
+   0.774347
+  ],
+  [
+   0.6169
+  ]
+ ],
+ "article_text_removed": true
+}

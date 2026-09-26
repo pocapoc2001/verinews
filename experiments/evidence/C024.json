@@ -1,0 +1,68 @@
+{
+ "claim_id": "C024",
+ "claim_text": "Inmates at a Kansas prison donated over $4,000 to a Kansas school district’s lunch debt in 2026.",
+ "query": "Inmates at a Kansas prison donated over $4 000 to a Kansas",
+ "verdict": "TRUE",
+ "split": "calibration",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/kansas-prisoners-school-lunch-debt/",
+ "verdict_date": "2026-09-10",
+ "summary": "Fact Check: Kansas prisoners donated over $4K to pay off school lunch debt    Yahoo Kansas inmates unite to reduce student lunch debt for local community    NewsNation",
+ "n_articles": 2,
+ "n_domains": 2,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Fact Check: Kansas prisoners donated over $4K to pay off school lunch debt",
+   "url": "https://www.yahoo.com/news/us/articles/fact-check-kansas-prisoners-donated-130000386.html",
+   "publisher": "Yahoo",
+   "domain": "yahoo.com",
+   "body_available": false,
+   "url_resolved": true,
+   "pub_date": "2026-09-10",
+   "stance": "debunk",
+   "similarity": 0.959197
+  },
+  {
+   "title": "Kansas inmates unite to reduce student lunch debt for local community",
+   "url": "https://www.newsnationnow.com/good-news/kansas-inmates-student-lunch-debt/",
+   "publisher": "NewsNation",
+   "domain": "newsnationnow.com",
+   "body_available": false,
+   "url_resolved": true,
+   "pub_date": "2026-09-10",
+   "stance": "neutral",
+   "similarity": 0.795958
+  }
+ ],
+ "similarities": [
+  0.959197,
+  0.795958
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.693206
+  ],
+  [
+   0.693206,
+   1.0
+  ]
+ ],
+ "domains": [
+  "yahoo.com",
+  "newsnationnow.com"
+ ],
+ "claims": [
+  "Fact Check: Kansas prisoners donated over $4K to pay off school lunch debt    Yahoo Kansas inmates unite to reduce student lunch debt for local community    NewsNation"
+ ],
+ "claim_similarities": [
+  [
+   0.959197,
+   0.795958
+  ]
+ ],
+ "article_text_removed": true
+}

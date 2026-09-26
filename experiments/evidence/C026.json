@@ -1,0 +1,78 @@
+{
+ "claim_id": "C026",
+ "claim_text": "Photograph authentically shows a circular \"experimental forestry\" project in Japan.",
+ "query": "Photograph authentically shows a circular experimental forestry project in Japan",
+ "verdict": "TRUE",
+ "split": "evaluation",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/experimental-circular-forest-japan/",
+ "verdict_date": "2026-09-12",
+ "summary": "One Reddit post with the photo read: \"'Experimental forestry' in Japan to measure the effect of tree density on growth.\" The image was shared on various social media platforms, including Instagram, 9GAG, Facebook, Pinterest, and X (formerly Twitter). Snopes determined the photograph in question, which is also accessible from The Associated Press' image archive, is authentic and accurately depicts a forest in Japan planted to study the impact of cedar tree spacing on growth. The museum only learned about the bonsai surviving the Hiroshima bombings gradually, through conversations with younger generations of the Yamaki family, Shigeru and Akira Yamaki, grandsons of t On the morning of August 6, 1945 at 8:15 am the atomic bomb was dropped on Hiroshima.",
+ "n_articles": 2,
+ "n_domains": 1,
+ "n_debunk": 2,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "Photo Shows Circular 'Experimental Forestry' Project in Japan?",
+   "url": "https://www.snopes.com/fact-check/japan-experimental-forestry/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2024-10-04",
+   "stance": "debunk",
+   "similarity": 0.678912
+  },
+  {
+   "title": "Photo shows 400-year-old bonsai tree that survived U.S. bombing of Hiroshima?",
+   "url": "https://www.snopes.com/fact-check/bonsai-tree-photo/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2025-07-18",
+   "stance": "debunk",
+   "similarity": 0.838913
+  }
+ ],
+ "similarities": [
+  0.678912,
+  0.838913
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.507064
+  ],
+  [
+   0.507064,
+   1.0
+  ]
+ ],
+ "domains": [
+  "snopes.com",
+  "snopes.com"
+ ],
+ "claims": [
+  "One Reddit post with the photo read: \"'Experimental forestry' in Japan to measure the effect of tree density on growth.\" The image was shared on various social media platforms, including Instagram, 9GAG, Facebook, Pinterest, and X (formerly Twitter).",
+  "Snopes determined the photograph in question, which is also accessible from The Associated Press' image archive, is authentic and accurately depicts a forest in Japan planted to study the impact of cedar tree spacing on growth.",
+  "The museum only learned about the bonsai surviving the Hiroshima bombings gradually, through conversations with younger generations of the Yamaki family, Shigeru and Akira Yamaki, grandsons of t On the morning of August 6, 1945 at 8:15 am the atomic bomb was dropped on Hiroshima."
+ ],
+ "claim_similarities": [
+  [
+   0.66698,
+   0.417487
+  ],
+  [
+   0.842415,
+   0.478136
+  ],
+  [
+   0.348946,
+   0.824143
+  ]
+ ],
+ "article_text_removed": true
+}

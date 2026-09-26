@@ -1,0 +1,153 @@
+{
+ "claim_id": "C004",
+ "claim_text": "Adding a stamp to a postage prepaid ballot will “force” the U.S. Postal Service to handle it as first-class mail instead of bulk.",
+ "query": "Adding a stamp to a postage prepaid ballot will force the U.S",
+ "verdict": "FALSE",
+ "split": "calibration",
+ "topic": "general",
+ "fact_checker": "Snopes",
+ "factcheck_url": "https://www.snopes.com/fact-check/usps-stamp-ballot-first-class-mail/",
+ "verdict_date": "2026-09-04",
+ "summary": "~~~ On December 24, 2025, the United States Postal Service (USPS) published revisions to the Domestic Mail Manual (DMM) regarding USPS’s policies and operations related to the use of postmarks, prompting questions about how these revisions may affect mail voting. In USPS’s own words, the newly adopted Section 608.11 of the DMM “is intended to explain the Postal Service’s operational use of the postmark, identify the markings that qualify as postmarks, and clarify what information such markings can be reliably taken to convey.” USPS has repeatedly stated that the newly published sections of the DMM do not reflect any changes related to USPS’s use of postmarks. Partially for these reasons, USPS continues to recommend that voters who plan to vote by mail send their ballots at least seven days before Election Day (or at least one week before the final receipt date in states with post-Election Day deadlines) to ensure timely receipt by election officials.",
+ "n_articles": 5,
+ "n_domains": 4,
+ "n_debunk": 1,
+ "retrieval_order": "duckduckgo,gnews,yahoo",
+ "articles": [
+  {
+   "title": "What You Need to Know About the USPS Mail Ballot Rule",
+   "url": "https://votingrightslab.org/2026/09/17/what-you-need-to-know-about-the-proposed-usps-mail-ballot-rule/",
+   "publisher": "Voting Rights Lab",
+   "domain": "votingrightslab.org",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-17",
+   "stance": "neutral",
+   "similarity": 0.779029
+  },
+  {
+   "title": "Why adding a stamp to your ballot won't make it first-class mail",
+   "url": "https://www.snopes.com/fact-check/usps-stamp-ballot-first-class-mail/",
+   "publisher": "Snopes",
+   "domain": "snopes.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-09-04",
+   "stance": "debunk",
+   "similarity": 0.705078
+  },
+  {
+   "title": "What You Need to Know About the USPS Mail Ballot Rule",
+   "url": "https://votingrightslab.org/2026/08/28/what-you-need-to-know-about-the-proposed-usps-mail-ballot-rule/",
+   "publisher": "Voting Rights Lab",
+   "domain": "votingrightslab.org",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-08-28",
+   "stance": "neutral",
+   "similarity": 0.779029
+  },
+  {
+   "title": "Here’s What the New USPS Rule Means for Voting by Mail",
+   "url": "https://campaignlegal.org/update/heres-what-new-usps-rule-means-voting-mail",
+   "publisher": "Campaign Legal Center",
+   "domain": "campaignlegal.org",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-01-08",
+   "stance": "neutral",
+   "similarity": 0.935742
+  },
+  {
+   "title": "Gov. Cox rushes to sign final-hour GOP bid to sink Prop 4 signature removal efforts",
+   "url": "https://www.sltrib.com/news/politics/2026/03/07/prop-4-gov-cox-rushes-sign-gops/",
+   "publisher": "The Salt Lake Tribune",
+   "domain": "sltrib.com",
+   "body_available": true,
+   "url_resolved": true,
+   "pub_date": "2026-03-07",
+   "stance": "neutral",
+   "similarity": 0.130069
+  }
+ ],
+ "similarities": [
+  0.779029,
+  0.705078,
+  0.779029,
+  0.935742,
+  0.130069
+ ],
+ "pairwise": [
+  [
+   1.0,
+   0.69045,
+   1.0,
+   0.74348,
+   0.125757
+  ],
+  [
+   0.69045,
+   1.0,
+   0.69045,
+   0.738435,
+   0.047644
+  ],
+  [
+   1.0,
+   0.69045,
+   1.0,
+   0.74348,
+   0.125757
+  ],
+  [
+   0.74348,
+   0.738435,
+   0.74348,
+   1.0,
+   0.116782
+  ],
+  [
+   0.125757,
+   0.047644,
+   0.125757,
+   0.116782,
+   1.0
+  ]
+ ],
+ "domains": [
+  "votingrightslab.org",
+  "snopes.com",
+  "votingrightslab.org",
+  "campaignlegal.org",
+  "sltrib.com"
+ ],
+ "claims": [
+  "~~~ On December 24, 2025, the United States Postal Service (USPS) published revisions to the Domestic Mail Manual (DMM) regarding USPS’s policies and operations related to the use of postmarks, prompting questions about how these revisions may affect mail voting.",
+  "In USPS’s own words, the newly adopted Section 608.11 of the DMM “is intended to explain the Postal Service’s operational use of the postmark, identify the markings that qualify as postmarks, and clarify what information such markings can be reliably taken to convey.” USPS has repeatedly stated that the newly published sections of the DMM do not reflect any changes related to USPS’s use of postmarks.",
+  "Partially for these reasons, USPS continues to recommend that voters who plan to vote by mail send their ballots at least seven days before Election Day (or at least one week before the final receipt date in states with post-Election Day deadlines) to ensure timely receipt by election officials."
+ ],
+ "claim_similarities": [
+  [
+   0.727195,
+   0.634238,
+   0.727195,
+   0.887059,
+   0.148119
+  ],
+  [
+   0.477619,
+   0.438816,
+   0.477619,
+   0.742571,
+   0.078681
+  ],
+  [
+   0.609511,
+   0.628106,
+   0.609511,
+   0.576933,
+   0.037264
+  ]
+ ],
+ "article_text_removed": true
+}
